@@ -1,60 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-]>
-<svg version="1.1"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="24px" height="24px" viewBox="-3 0 24 24" style="overflow:visible;enable-background:new -3 0 24 24;"
-	 xml:space="preserve" preserveAspectRatio="xMinYMid meet">
-<defs>
-</defs>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="9.4995" y1="0" x2="9.4995" y2="24.0005">
-	<stop  offset="0" style="stop-color:#95BFF8"/>
-	<stop  offset="0.5569" style="stop-color:#84ADEF"/>
-	<stop  offset="1" style="stop-color:#7CA4EB"/>
-	<a:midPointStop  offset="0" style="stop-color:#95BFF8"/>
-	<a:midPointStop  offset="0.4" style="stop-color:#95BFF8"/>
-	<a:midPointStop  offset="1" style="stop-color:#7CA4EB"/>
-</linearGradient>
-<polygon style="fill:url(#SVGID_1_);" points="11.5,0 0,0 0,24 19,24 19,7.9 "/>
-<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="9.4995" y1="1" x2="9.4995" y2="23.0005">
-	<stop  offset="0" style="stop-color:#E7F4FC"/>
-	<stop  offset="1" style="stop-color:#DEEFFC"/>
-	<a:midPointStop  offset="0" style="stop-color:#E7F4FC"/>
-	<a:midPointStop  offset="0.5" style="stop-color:#E7F4FC"/>
-	<a:midPointStop  offset="1" style="stop-color:#DEEFFC"/>
-</linearGradient>
-<polygon style="fill:url(#SVGID_2_);" points="1,23 1,1 11.1,1 18,8.3 18,23 "/>
-<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="9.4995" y1="2" x2="9.4995" y2="22.0005">
-	<stop  offset="0" style="stop-color:#CEE9F9"/>
-	<stop  offset="1" style="stop-color:#BBDFF8"/>
-	<a:midPointStop  offset="0" style="stop-color:#CEE9F9"/>
-	<a:midPointStop  offset="0.5" style="stop-color:#CEE9F9"/>
-	<a:midPointStop  offset="1" style="stop-color:#BBDFF8"/>
-</linearGradient>
-<polygon style="fill:url(#SVGID_3_);" points="2,22 2,2 10.6,2 17,8.7 17,22 "/>
-<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="14.2451" y1="0" x2="14.2451" y2="9.3594">
-	<stop  offset="0" style="stop-color:#95BFF8"/>
-	<stop  offset="0.5569" style="stop-color:#84ADEF"/>
-	<stop  offset="1" style="stop-color:#7CA4EB"/>
-	<a:midPointStop  offset="0" style="stop-color:#95BFF8"/>
-	<a:midPointStop  offset="0.4" style="stop-color:#95BFF8"/>
-	<a:midPointStop  offset="1" style="stop-color:#7CA4EB"/>
-</linearGradient>
-<path style="fill:url(#SVGID_4_);" d="M10,9c0,0,5.2-1.5,9,0.4c0-0.1,0-1.5,0-1.5L11.5,0c0,0-1.8,0-2,0C12.1,3.7,10,9,10,9z"/>
-<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="11.3223" y1="7.5449" x2="14.4504" y2="4.4168">
-	<stop  offset="0" style="stop-color:#E7F4FC"/>
-	<stop  offset="0.5181" style="stop-color:#E5F3FC"/>
-	<stop  offset="0.7045" style="stop-color:#DEF0FB"/>
-	<stop  offset="0.8371" style="stop-color:#D3EBFA"/>
-	<stop  offset="0.872" style="stop-color:#CEE9F9"/>
-	<stop  offset="1" style="stop-color:#BDD8F0"/>
-	<a:midPointStop  offset="0" style="stop-color:#E7F4FC"/>
-	<a:midPointStop  offset="0.87" style="stop-color:#E7F4FC"/>
-	<a:midPointStop  offset="0.872" style="stop-color:#CEE9F9"/>
-	<a:midPointStop  offset="0.5" style="stop-color:#CEE9F9"/>
-	<a:midPointStop  offset="1" style="stop-color:#BDD8F0"/>
-</linearGradient>
-<path style="fill:url(#SVGID_5_);" d="M17.5,7.8c-0.9-0.2-2-0.3-3.1-0.3c-1.1,0-2.1,0.1-3,0.3c0.4-1.6,0.7-4.1-0.2-6.4L17.5,7.8z"/>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<path fill="#212930" d="M20.798,13.682h-1.909v-0.787h1.572h0.112l0,0c0.675,0,1.236-0.561,1.236-1.236
+				c0-0.673-0.562-1.235-1.236-1.235h-0.448v-0.45c0-0.112,0-0.225,0-0.337c0-1.797-1.46-3.257-3.258-3.257
+				c-0.336,0-0.562,0-0.897,0.112l-0.45,0.112l-0.111-0.45c-0.338-2.471-2.472-4.268-4.943-4.268c-2.696,0-4.942,2.247-4.942,4.942
+				v0.449H5.187c-1.46,0.112-2.583,1.348-2.583,2.809c0,1.571,1.235,2.918,2.92,2.918v0.676c-2.021,0-3.707-1.686-3.707-3.708
+				c0-1.796,1.236-3.257,2.92-3.594c0.112-3.033,2.696-5.503,5.729-5.503c2.696,0,5.054,1.909,5.616,4.605c0.225,0,0.45,0,0.675,0
+				c2.246,0,4.042,1.797,4.042,4.042c0,0,0,0,0,0.113c0.899,0.225,1.573,1.012,1.573,2.021
+				C22.707,12.67,21.923,13.568,20.798,13.682L20.798,13.682z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="#FFFFFF" d="M10.016,8.289H8.443c-0.898,0-1.572,0.674-1.685,1.573v0.225v10.332v-0.448v0.337
+				c0-0.898,0.786-1.685,1.685-1.685h9.436V8.289h-5.617"/>
+			<path fill="#212930" d="M6.759,20.758L6.759,20.758H6.31V9.974c0-1.124,0.898-2.021,2.021-2.021h1.573v0.787H8.331
+				c-0.674,0-1.236,0.561-1.236,1.235v0.225v8.535c0.337-0.225,0.787-0.448,1.236-0.448h9.098V8.739h-5.167V7.953h6.065v11.232
+				H8.443c-0.674,0-1.235,0.562-1.235,1.123v0.111l0,0C7.095,20.758,6.871,20.758,6.759,20.758z"/>
+		</g>
+		<rect x="9.342" y="9.413" fill="#B4BEBF" width="7.525" height="8.198"/>
+		<g>
+			<g>
+				<path fill="#FFFFFF" d="M17.879,18.734h-2.696H8.443c-0.898,0-1.685,0.787-1.685,1.685c0,0.9,0.786,1.687,1.685,1.687h6.739
+					h2.696V18.734z"/>
+				<path fill="#212930" d="M18.327,22.328H8.443c-1.123,0-2.021-0.897-2.021-2.021s0.898-2.021,2.021-2.021h9.884V22.328z
+					 M8.443,19.073c-0.674,0-1.235,0.562-1.235,1.234c0,0.675,0.562,1.236,1.235,1.236h9.097v-2.471H8.443z"/>
+			</g>
+		</g>
+		<polygon fill="#E4376E" points="11.589,23.34 10.465,22.554 9.229,23.34 9.229,20.532 10.465,20.532 11.589,20.532 		"/>
+		<g>
+			<line fill="none" x1="8.331" y1="20.419" x2="17.879" y2="20.419"/>
+			<rect x="8.331" y="19.971" fill="#212930" width="9.548" height="0.787"/>
+		</g>
+		<g>
+			<line fill="none" x1="8.331" y1="18.623" x2="8.331" y2="8.514"/>
+			<rect x="7.882" y="8.514" fill="#212930" width="0.787" height="10.109"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<polygon fill="#212930" points="12.6,6.492 11.139,5.032 9.679,6.492 9.117,5.931 11.139,3.796 13.273,5.931 				"/>
+			</g>
+		</g>
+		<g>
+			<rect x="10.802" y="4.92" fill="#212930" width="0.787" height="5.503"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<polygon fill="#212930" points="13.498,16.039 11.477,14.018 12.038,13.456 13.498,14.916 14.958,13.456 15.52,14.018 				"/>
+			</g>
+		</g>
+		<g>
+			<rect x="13.049" y="9.413" fill="#212930" width="0.786" height="5.503"/>
+		</g>
+	</g>
+</g>
 </svg>
